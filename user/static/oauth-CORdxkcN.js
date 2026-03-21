@@ -1,0 +1,1 @@
+import{e as t}from"./index-DsmcuS07.js";async function e(o,n){return t("/v1/auth/oauth/login",{method:"POST",headers:{"Content-Type":"application/json"},data:o})}async function i(o,n){return t("/v1/auth/oauth/login/token",{method:"POST",headers:{"Content-Type":"application/json"},data:o})}export{i as a,e as o};
