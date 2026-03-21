@@ -1,1 +1,0 @@
-const o=(t,r,a)=>{let e=a;for(let n=1;n<=t;n++)e=r(e,n);return e},c=(t,r)=>Math.floor(Math.random()*(r-t+1)+t),u=(t,r="")=>{const a="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"+r;return o(t,e=>e+a.charAt(c(0,a.length-1)),"")};export{u};
