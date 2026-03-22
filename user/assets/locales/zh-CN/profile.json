@@ -17,15 +17,56 @@
     "updateSuccess": "通知设置更新成功"
   },
   "thirdParty": {
+    "actionFailed": "操作失败",
+    "apple": {
+      "description": "使用 Apple 登录",
+      "label": "Apple"
+    },
     "bind": "绑定",
+    "bindEmail": "绑定邮箱",
     "bindFailed": "绑定失败",
     "bindMobile": "绑定手机",
     "bindSuccess": "绑定成功",
     "confirm": "确认",
+    "email": {
+      "description": "绑定您的邮箱地址",
+      "label": "邮箱"
+    },
+    "google": {
+      "description": "使用 Google 登录",
+      "label": "Google"
+    },
+    "mobile": {
+      "description": "绑定您的手机号",
+      "label": "手机"
+    },
+    "placeholders": {
+      "areaCode": "区号...",
+      "code": "请输入验证码...",
+      "email": "请输入您的邮箱...",
+      "mobile": "请输入您的手机号..."
+    },
     "save": "保存",
-    "title": "第三方账户",
+    "telegram": {
+      "description": "使用 Telegram 登录",
+      "label": "Telegram"
+    },
+    "telegramBindHint": "请先在 Telegram 中完成绑定，然后返回并刷新当前页面。",
+    "title": "已连接账户",
     "unbind": "解绑",
+    "unbindSuccess": "解绑成功",
+    "unverified": "未验证",
     "update": "更新",
-    "updateSuccess": "更新成功"
+    "updateSuccess": "更新成功",
+    "validation": {
+      "areaCode": "请输入区号",
+      "code": "请输入验证码",
+      "email": "请输入有效的邮箱地址",
+      "mobile": "请输入有效的手机号"
+    },
+    "verify": "验证",
+    "verifyEmail": "验证邮箱",
+    "verifyFailed": "验证失败",
+    "verifySuccess": "验证成功"
   }
 }

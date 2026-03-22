@@ -17,15 +17,56 @@
     "updateSuccess": "Notification settings updated successfully"
   },
   "thirdParty": {
-    "bind": "thirdParty.bind",
+    "actionFailed": "Operation failed",
+    "apple": {
+      "description": "Sign in with Apple",
+      "label": "Apple"
+    },
+    "bind": "Connect",
+    "bindEmail": "Connect Email",
     "bindFailed": "Bind failed",
     "bindMobile": "Bind Mobile",
     "bindSuccess": "Bind successfully",
     "confirm": "Confirm",
-    "save": "thirdParty.save",
-    "title": "Third-party Accounts",
-    "unbind": "thirdParty.unbind",
-    "update": "thirdParty.update",
-    "updateSuccess": "Update successfully"
+    "email": {
+      "description": "Link your email address",
+      "label": "Email"
+    },
+    "google": {
+      "description": "Sign in with Google",
+      "label": "Google"
+    },
+    "mobile": {
+      "description": "Link your mobile number",
+      "label": "Mobile"
+    },
+    "placeholders": {
+      "areaCode": "Area code...",
+      "code": "Enter code...",
+      "email": "Enter your email...",
+      "mobile": "Enter your telephone..."
+    },
+    "save": "Save",
+    "telegram": {
+      "description": "Sign in with Telegram",
+      "label": "Telegram"
+    },
+    "telegramBindHint": "Complete the binding in Telegram, then return and refresh this page.",
+    "title": "Connected Accounts",
+    "unbind": "Disconnect",
+    "unbindSuccess": "Successfully disconnected",
+    "unverified": "Unverified",
+    "update": "Update",
+    "updateSuccess": "Update successfully",
+    "validation": {
+      "areaCode": "Area code is required",
+      "code": "Verification code is required",
+      "email": "Email is required",
+      "mobile": "Phone number is required"
+    },
+    "verify": "Verify",
+    "verifyEmail": "Verify Email",
+    "verifyFailed": "Verification failed",
+    "verifySuccess": "Verification successful"
   }
 }
