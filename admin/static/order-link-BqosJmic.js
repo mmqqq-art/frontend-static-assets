@@ -1,1 +1,0 @@
-import{j as s,e as n}from"./index-Df3AFZlP.js";import{B as i}from"./index-DmNB6qjn.js";function o({orderId:r,className:a}){return r?s.jsx(i,{asChild:!0,className:`p-0 ${a||""}`,variant:"link",children:s.jsx(n,{search:{search:r},to:"/dashboard/order",children:r})}):s.jsx("span",{children:"--"})}export{o as O};
