@@ -57,6 +57,13 @@
     "pageInfo": "Page {{page}} of {{total}}",
     "rowsPerPage": "Rows per page"
   },
+  "timezone": {
+    "all": "All",
+    "current": "Current",
+    "recommended": "Recommended",
+    "searchPlaceholder": "Search timezones",
+    "server": "Server"
+  },
   "theme": {
     "dark": "Dark",
     "light": "Light",

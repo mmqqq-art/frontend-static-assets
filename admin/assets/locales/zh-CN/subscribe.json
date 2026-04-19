@@ -2,7 +2,9 @@
   "actions": {
     "add": "添加",
     "batchDelete": "批量删除",
+    "batchDeleteSuccess_one": "成功删除 {count} 个客户端",
     "batchDeleteSuccess_other": "成功删除 {count} 个客户端",
+    "batchDeleteWarning_one": "确定要删除选中的 {count} 个客户端吗？",
     "batchDeleteWarning_other": "确定要删除选中的 {count} 个客户端吗？",
     "cancel": "取消",
     "confirm": "确认",
@@ -94,6 +96,7 @@
     "yaml": "YAML"
   },
   "protocol": {
+    "templateRepo": "模板仓库",
     "title": "客户端管理"
   },
   "table": {
@@ -102,8 +105,12 @@
       "description": "描述",
       "name": "客户端名称",
       "outputFormat": "输出格式",
-      "supportedPlatforms": "支持的平台"
+      "supportedPlatforms": "支持的平台",
+      "userAgent": "用户代理"
     }
+  },
+  "placeholders": {
+    "selectOutputFormat": "选择输出格式"
   },
   "templatePreview": {
     "base64": {

@@ -96,6 +96,7 @@
     "yaml": "YAML"
   },
   "protocol": {
+    "templateRepo": "Template Repo",
     "title": "Client Management"
   },
   "table": {
@@ -104,8 +105,12 @@
       "description": "Description",
       "name": "Client Name",
       "outputFormat": "Output Format",
-      "supportedPlatforms": "Supported Platforms"
+      "supportedPlatforms": "Supported Platforms",
+      "userAgent": "User Agent"
     }
+  },
+  "placeholders": {
+    "selectOutputFormat": "Select output format"
   },
   "templatePreview": {
     "base64": {

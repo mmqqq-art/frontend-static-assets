@@ -57,6 +57,13 @@
     "pageInfo": "第 {{page}} 页，共 {{total}} 页",
     "rowsPerPage": "每页行数"
   },
+  "timezone": {
+    "all": "全部",
+    "current": "当前",
+    "recommended": "推荐",
+    "searchPlaceholder": "搜索时区",
+    "server": "服务器"
+  },
   "theme": {
     "dark": "深色",
     "light": "浅色",
