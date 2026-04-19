@@ -2,6 +2,7 @@
   "balanceRecharge": "余额充值",
   "billing": {
     "billingTitle": "商品账单",
+    "commission": "佣金抵扣",
     "couponDiscount": "折扣码优惠",
     "duration": "套餐时长",
     "fee": "手续费",

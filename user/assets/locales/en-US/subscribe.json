@@ -2,6 +2,7 @@
   "balanceRecharge": "Balance Recharge",
   "billing": {
     "billingTitle": "Product Billing",
+    "commission": "Commission Deduction",
     "couponDiscount": "Coupon Discount",
     "duration": "Duration",
     "fee": "Fee",
